@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <Policies>
+        <VersionInfo resourceName="Extract-Variables-VijayEmployee" version="370cd2a12fa52e2ed8f82b00746072b58f6bd94fb1708a591bd867669b5434d40910a3183417b85d10ce98665b8b390ea5cdd581a46fda27a745da27f0d43bf5"/>
+        <VersionInfo resourceName="Quota-VijayEmployee" version="d929007a03e006d13daa30f7de744cbd12f7fc354ca94c5a9901ea0edc491c289b8389baf6fc47d75bdce742a371f92f4b645f88e70e0b55717f8eb5b1f054ec"/>
+        <VersionInfo resourceName="Spike-Arrest-VijayEmployee" version="a9fe942c5a28ba2a010216280e235ae3f9e3581b344ad232a7cb50ee3a0cb4d14fe095475b4778d5e7fd4749088fe4febb009cffaa7b3cc1402ab83739d3e4ec"/>
+        <VersionInfo resourceName="Verify-API-Key-VijayEmployee" version="7ce5155ded00b5f9bd4e9f2e2bedd2eb946dbf729df23652b727735f349368d74da6dd2efb380052c99f7fd8cdb31f3d6506f8e281dec2d9ccecd4b5c8977e88"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="84451137fd46b90e9782ffae995c729fbec64abd1f36dde5ef148bf5d1e918a2dcd0c2a74d21e4d72a7242898ba30e052d5d3f97e2a25abc8a59ccc8e4fd251a"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="openapi://association.json" version="7689ab777064cc2c9ccf327909462adc8a113beb069634130d39e4e3a356c609cb981aa7533e8212e0e896d9613826546dba993475ae423c087906480517f7f8"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="f147757c1c415e6964c2095910076516482ef4bd436f55be20390b1ecf0d819731e81fc0524b41a76be7388a77d84823b15eb9351e3043c32f45e95b02f5c1eb"/>
+    </TargetEndpoints>
+</Manifest>

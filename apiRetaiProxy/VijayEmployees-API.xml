@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="VijayEmployees-API">
+    <Basepaths>/v1/vijayemployees-api</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1521130843816</CreatedAt>
+    <CreatedBy>dilipanvijay@gmail.com</CreatedBy>
+    <Description>Test Employee Api Proxy</Description>
+    <DisplayName>VijayEmployees-API</DisplayName>
+    <LastModifiedAt>1521133099148</LastModifiedAt>
+    <LastModifiedBy>dilipanvijay@gmail.com</LastModifiedBy>
+    <ManifestVersion>fd85ec9db333484172d77ce1c4a9c2f6ae6b0914d034c11931c47bdec166eebe17d3295457777cb986d39ad83790dc840bcd634324c3db1376cc7c8a6d005f0e</ManifestVersion>
+    <Policies>
+        <Policy>Extract-Variables-VijayEmployee</Policy>
+        <Policy>Quota-VijayEmployee</Policy>
+        <Policy>Spike-Arrest-VijayEmployee</Policy>
+        <Policy>Verify-API-Key-VijayEmployee</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>openapi://association.json</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
